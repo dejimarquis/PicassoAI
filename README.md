@@ -1,7 +1,7 @@
 #PicassoAI
 PicassoAI is a machine learning model built to generate 
 Picasso like paintings of the Cubism era. This project 
-was done as a proof a concept and it's inspired by my newly found interest
+was done as a proof a concept, and it's inspired by my newly found interest
 in art and Picasso
 
 ### Notes
